@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Day 1/Build and deploy microservices on Kubernetes with Istio.md",
+            "file": "Day 1/Blockchain, NFT and smart contracts for my (Java) application.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day 1/Build and deploy microservices on Kubernetes with Istio.md",
+                "file": "Day 1/Blockchain, NFT and smart contracts for my (Java) application.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Day 1/Build and deploy microservices on Kubernetes with Istio.md",
+                "file": "Day 1/Blockchain, NFT and smart contracts for my (Java) application.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Day 1/Build and deploy microservices on Kubernetes with Istio.md"
+                "file": "Day 1/Blockchain, NFT and smart contracts for my (Java) application.md"
               }
             }
           }
@@ -130,9 +130,10 @@
   },
   "active": "ebdafb2933a0695e",
   "lastOpenFiles": [
+    "Day 1/Build and deploy microservices on Kubernetes with Istio.md",
+    "Day 1/Blockchain, NFT and smart contracts for my (Java) application.md",
     "README.md",
     "Investigate.md",
-    "Day 1/Build and deploy microservices on Kubernetes with Istio.md",
     "Tools.md"
   ]
 }
