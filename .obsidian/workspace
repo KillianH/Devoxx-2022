@@ -9,18 +9,10 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "Day 1/Build and deploy microservices on Kubernetes with Istio.md",
             "mode": "source",
             "source": false
           }
-        }
-      },
-      {
-        "id": "302e54e479b5d47c",
-        "type": "leaf",
-        "state": {
-          "type": "empty",
-          "state": {}
         }
       }
     ],
@@ -85,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Day 1/Build and deploy microservices on Kubernetes with Istio.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Day 1/Build and deploy microservices on Kubernetes with Istio.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Day 1/Build and deploy microservices on Kubernetes with Istio.md"
               }
             }
           }
@@ -138,9 +130,9 @@
   },
   "active": "ebdafb2933a0695e",
   "lastOpenFiles": [
+    "README.md",
     "Investigate.md",
     "Day 1/Build and deploy microservices on Kubernetes with Istio.md",
-    "README.md",
     "Tools.md"
   ]
 }

@@ -50,3 +50,24 @@ Manage service external to the mesh
 ### [Sidecars](https://istio.io/latest/docs/concepts/traffic-management/#sidecars)
 -   Fine-tune the set of ports and protocols that an Envoy proxy accepts.
 -   Limit the set of services that the Envoy proxy can reach.
+
+### Delay & Fault
+- Can specify a delay on virtual service to test how the mesh is behaving with bad response time
+- Can specify a fault on virtual service to test how the mesh is behaving with lot of faulty responses
+
+### Auth / Security
++ Can do MTLS all over the data plane for E2E traffic encryption
++ Can handle oauth (easier to use a plugin)
+
+### Is a service mesh worth it ?
+**Pros**
+- kube native microservice
+- Reduced resp for dev
+- No need to write / maintain code 
+- AB canaray release etc
+**Cons**
+- Complex to debug
+- Higher resource usage / running costs
+- Business logic related policies might be trickier
+
+[Slides](https://speakerdeck.com/deepu105/build-and-deploy-cloud-native-java-microservices-on-kubernetes-with-istio-service-mesh)
