@@ -1,0 +1,146 @@
+{
+  "main": {
+    "id": "0d27cfabbced6d09",
+    "type": "split",
+    "children": [
+      {
+        "id": "ebdafb2933a0695e",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "README.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "302e54e479b5d47c",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "25f2d9f216e10070",
+    "type": "split",
+    "children": [
+      {
+        "id": "11e4e8f21418b4c4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "240674e89a6b7006",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "4145d68d06b16142",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1597155e32843967",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d26553c7a6687195",
+    "type": "split",
+    "children": [
+      {
+        "id": "5dac8b2e19e9dfd0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "418172eab7a239fc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "36e0c6b7e1c9a947",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "fdde6431283a597b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0a4ed4627ce1b4f3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "ebdafb2933a0695e",
+  "lastOpenFiles": [
+    "Investigate.md",
+    "Day 1/Build and deploy microservices on Kubernetes with Istio.md",
+    "README.md",
+    "Tools.md"
+  ]
+}

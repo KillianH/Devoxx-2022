@@ -1,0 +1,4 @@
+- [Kiali - The Console for Istio Service Mesh](https://kiali.io/)
+- [Zipkins - distributed tracing system](https://zipkin.io/)
+- [JIB - google tool to generate docker containers without docker files for java apps](https://github.com/GoogleContainerTools/jib) 
+- [Wildcard dns is not safe ???](https://unit42.paloaltonetworks.com/wildcard-dns-abuse/)
