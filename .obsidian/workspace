@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Day 3/2022 A GitOps Odyssey.md",
+            "file": "Day 4/The State of OpenTelemetry for Java Developers.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day 3/2022 A GitOps Odyssey.md",
+                "file": "Day 4/The State of OpenTelemetry for Java Developers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Day 3/2022 A GitOps Odyssey.md",
+                "file": "Day 4/The State of OpenTelemetry for Java Developers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Day 3/2022 A GitOps Odyssey.md"
+                "file": "Day 4/The State of OpenTelemetry for Java Developers.md"
               }
             }
           }
@@ -130,15 +130,15 @@
   },
   "active": "ebdafb2933a0695e",
   "lastOpenFiles": [
-    "Day 3/A postgres-compatible DB on Kubernetes YugabyteDB.md",
-    "Day 3/NewSQL, the holy grail of databases?.md",
-    "Day 3/JetBrains Fleet.md",
-    "Day 3/Keynotes.md",
-    "Day 1/Blockchain, NFT and smart contracts for my (Java) application.md",
-    "Day 1/Build and deploy microservices on Kubernetes with Istio.md",
-    "Day 1/Helm vs. Kustomize the frenemies that soothe Kubernetes.md",
-    "Day 1/Let's kutomize with style.md",
-    "Day 1/OpenTelemetry – An Observability Framework for Cloud-Native Software.md",
-    "Day 2/The Practice of Securing Kubernetes.md"
+    "Day 4/The Hacker’s Guide to Kubernetes Security.md",
+    "Day 4/Protecting the world’s greatest open source ecosystem with Sigstore.md",
+    "Day 4/Load Testing Crash Course with Gatling.md",
+    "Day 4/Let’s Go Triple Active with Three Clouds and Cilium.md",
+    "Day 4/Distributed applications - Better off with frameworks, Kubernetes, service meshes or all of them at once?.md",
+    "Day 4/The State of OpenTelemetry for Java Developers.md",
+    "assets/AWSNetwork.jpg",
+    "assets/GCPNetwork.jpg",
+    "assets/AzureNetwork.jpg",
+    "Day 3/2022 A GitOps Odyssey.md"
   ]
 }
