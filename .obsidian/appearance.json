@@ -2,5 +2,6 @@
   "translucency": true,
   "interfaceFontFamily": "MesloLGS NF",
   "textFontFamily": "MesloLGS NF",
-  "monospaceFontFamily": "MesloLGS NF"
+  "monospaceFontFamily": "MesloLGS NF",
+  "accentColor": ""
 }

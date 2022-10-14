@@ -1,0 +1,178 @@
+{
+  "main": {
+    "id": "0d27cfabbced6d09",
+    "type": "split",
+    "children": [
+      {
+        "id": "3f5017c33365d7fd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ebdafb2933a0695e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Day 4/The State of OpenTelemetry for Java Developers.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ae3d04f06de281b0",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.0.0"
+              }
+            }
+          },
+          {
+            "id": "73599c2e8674b520",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Day 5/Debugging distributed systems.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "25f2d9f216e10070",
+    "type": "split",
+    "children": [
+      {
+        "id": "11e4e8f21418b4c4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "240674e89a6b7006",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4145d68d06b16142",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1597155e32843967",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d26553c7a6687195",
+    "type": "split",
+    "children": [
+      {
+        "id": "5dac8b2e19e9dfd0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "418172eab7a239fc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Day 5/Debugging distributed systems.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "36e0c6b7e1c9a947",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Day 5/Debugging distributed systems.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "fdde6431283a597b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0a4ed4627ce1b4f3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Day 5/Debugging distributed systems.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "73599c2e8674b520",
+  "lastOpenFiles": [
+    "Day 4/The Hacker’s Guide to Kubernetes Security.md",
+    "Day 4/Protecting the world’s greatest open source ecosystem with Sigstore.md",
+    "Day 4/Load Testing Crash Course with Gatling.md",
+    "Day 4/Let’s Go Triple Active with Three Clouds and Cilium.md",
+    "Day 4/Distributed applications - Better off with frameworks, Kubernetes, service meshes or all of them at once?.md",
+    "Day 4/The State of OpenTelemetry for Java Developers.md",
+    "assets/AWSNetwork.jpg",
+    "assets/GCPNetwork.jpg",
+    "assets/AzureNetwork.jpg",
+    "Day 3/2022 A GitOps Odyssey.md"
+  ]
+}
