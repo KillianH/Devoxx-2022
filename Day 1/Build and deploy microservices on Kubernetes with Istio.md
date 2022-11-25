@@ -38,6 +38,8 @@
 Define how trafic is routed to apps
 Istio can merge similar routing rules (can do weird things sometimes)
 
+<div style="page-break-after: always;"></div>
+
 ### [Destinations rules from istio](https://istio.io/latest/docs/concepts/traffic-management/#destination-rules)
 Applied after routing is decided from istio. (Load balancer / circuit breaking etc)  
 

@@ -28,18 +28,21 @@ They tried DC via CEP but megaport ha second route was using francfort that adde
 
 They used DC via DC.
 
-![[AzureNetwork.jpg]]
+![Azure Network](../assets/AzureNetwork.jpg)
 
-![[GCPNetwork.jpg]]
 
-![[AWSNetwork.jpg]]
+![GCP Network](../assets/GCPNetwork.jpg)
+
+
+![AWS Network](../assets/AWSNetwork.jpg)
 
 Kube network model
-![[KubeNetworkModel.jpg]]
+
+![Kube Network Model](../assets/KubeNetworkModel.jpg)
 
 ## Cilium
 Operate in L3/4 and L7
-Use eBPF
+	Use eBPF
 Load balancing
 Security
 Network connectivity

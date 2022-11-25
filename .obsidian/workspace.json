@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "a387bddd704ef187",
+        "id": "e6e916c98b0cdc34",
         "type": "tabs",
         "children": [
           {
-            "id": "d4c80d787acbc85f",
+            "id": "41a13e8fc1e7f28d",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "SUMMARY.pdf"
+                "file": "SUMMARY.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -46,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#open-telemetry",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SUMMARY.pdf",
+                "file": "SUMMARY.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SUMMARY.pdf",
+                "file": "SUMMARY.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SUMMARY.pdf"
+                "file": "SUMMARY.md"
               }
             }
           }
@@ -137,17 +139,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "d4c80d787acbc85f",
+  "active": "41a13e8fc1e7f28d",
   "lastOpenFiles": [
-    "SUMMARY.md",
     "SUMMARY.pdf",
-    "README.md",
-    "Investigate.md",
+    "Day 1/Helm vs. Kustomize the frenemies that soothe Kubernetes.md",
+    "SUMMARY.md",
     "Day 1/Build and deploy microservices on Kubernetes with Istio.md",
     "Tools.md",
-    "Day 4/The State of OpenTelemetry for Java Developers.md",
+    "README.md",
+    "Investigate.md",
     "Day 5/Debugging distributed systems.md",
-    "Day 4/The Hacker’s Guide to Kubernetes Security.md",
-    "Day 4/Protecting the world’s greatest open source ecosystem with Sigstore.md"
+    "Day 4/The State of OpenTelemetry for Java Developers.md",
+    "Day 4/The Hacker’s Guide to Kubernetes Security.md"
   ]
 }

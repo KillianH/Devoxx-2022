@@ -13,7 +13,7 @@ Critical components to protect (etcd/kubelet/etc...)
 
 Kube attack matrix by Microsoft
 
-![[kube-attack-matrix.png]]
+![Kubernetes Attack Matrix](../assets/kube-attack-matrix.png)
 
 CIS Kubernetes Benchmark (heavy to read)
 
@@ -123,7 +123,7 @@ Main alternative : #Kyverno
 Kube native
 No rego just CRD
 
-![[GateKeeperVSKyverno.png]]
+![Gatekeeper vs Skyverno](../assets/GateKeeperVSKyverno.png)
 [Link](https://neonmirrors.net/post/2021-02/kubernetes-policy-comparison-opa-gatekeeper-vs-kyverno/)
 ## Threat detection
 AuditD -> log every commands executed

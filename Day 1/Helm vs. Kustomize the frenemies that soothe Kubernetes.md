@@ -31,7 +31,7 @@ helmChartInflationGenerator
 - Override helm charts with kustomize
 
 ## Comparison table
-![[helm-kustomize-comparison-table.jpg]]
+![Helm Kustomize Comparaison Table](../assets/helm-kustomize-comparison-table.jpg)
 [Github](https://github.com/ammbra/helm-vs-kustomize)
 
 Personal note from the speaker : It's easier to generate then refine the files
